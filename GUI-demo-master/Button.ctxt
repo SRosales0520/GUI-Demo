@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=first\ second
+comment1.target=Button(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ A\ constructor\ for\ objects\ of\ class\ Button\r\n\ \r\n\ @param\ first\ is\ the\ name\ of\ the\ first\ image\ file\ used\ for\ the\ button\r\n\ @param\ second\ is\ the\ name\ of\ the\ second\ image\ file\ used\ for\ the\ button\r\n\ @return\ An\ object\ of\ type\ Button\r\n
+comment2.params=text\ size\ first\ second
+comment2.target=Button(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ A\ constructor\ for\ objects\ of\ class\ Button\r\n\ \r\n\ @param\ text\ is\ the\ text\ that\ will\ be\ displayed\ on\ the\ button\r\n\ @param\ size\ is\ the\ text\ size\ for\ the\ text\ that\ will\ be\ displayed\ on\ the\ button\r\n\ @param\ first\ is\ the\ name\ of\ the\ first\ image\ file\ used\ for\ the\ button\r\n\ @param\ second\ is\ the\ name\ of\ the\ second\ image\ file\ used\ for\ the\ button\r\n\ @return\ An\ object\ of\ type\ Button\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ handleMouseClicks()
+comment4.text=\r\n\ handleMouseClicks\ handles\ what\ will\ happen\ when\ the\ button\ gets\r\n\ clicked\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ clickedAction()
+comment5.text=\r\n\ clickedAction\ is\ what\ the\ button\ will\ accomplish\ when\ it\ is\ clicked\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6

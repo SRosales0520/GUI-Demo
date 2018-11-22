@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TextBox
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TextBox\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=message\ size\ isBordered\ fg\ bg
+comment1.target=TextBox(java.lang.String,\ int,\ boolean,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TextBox\r\n\ \r\n\ @param\ message\ is\ the\ text\ that\ will\ be\ displayed\ in\ the\ text\ box\r\n\ @param\ size\ is\ the\ text\ size\ that\ will\ be\ used\ for\ the\ text\ in\ the\ text\ box\r\n\ @param\ isBordered\ states\ whether\ the\ text\ box\ is\ bordered\ or\ not\r\n\ @param\ fg\ is\ the\ foreground\ color\ (or\ the\ color\ of\ the\ text)\ of\ the\ text\ box\r\n\ @param\ bg\ is\ the\ background\ color\ of\ the\ text\ box\r\n\ @return\ An\ object\ of\ type\ of\ TextBox\r\n
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\r\n\ TODO\ (33)\:\ Declare\ a\ private\ method\ called\ display\ that\ does\ not\r\n\ \ \ \ \ \ \ \ \ \ \ \ have\ a\ return\ type\ and\ has\ no\ parameters\r\n\ \r\n\ TODO\ (34)\:\ Inside\ the\ method,\ set\ the\ image\ of\ this\ class\ to\ a\r\n\ \ \ \ \ \ \ \ \ \ \ \ new\ GreenfootImage\ with\ the\ value\ variable,\ fontSize\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ variable,\ foreground\ variable,\ and\ background\ variable\r\n\ \ \ \ \ \ \ \ \ \ \ \ as\ parameters\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ TODO\ (35)\:\ Underneath\ this\ line\ that\ sets\ the\ image,\ create\ code\ that\r\n\ \ \ \ \ \ \ \ \ \ \ \ will\ only\ occur\ if\ border\ is\ set\ to\ true\:\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ //If\ border\ is\ set\ to\ true...\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ //Get\ the\ image\ and\ set\ the\ color\ of\ the\ image\ to\ BLACK\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ //Get\ the\ image\ and\ draw\ a\ rectangle\ on\ the\ image\ starting\ at\ (0,0)\ and\ going\ to\ (getImage().getWidth()-1,\ getImage().getHeight()-1)\ \r\n
+comment3.params=message
+comment3.target=void\ setText(java.lang.String)
+comment3.text=\r\n\ TODO\ (37)\:\ Declare\ a\ public\ method\ called\ setText\ that\ does\ not\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ a\ value\ and\ has\ a\ String\ parameter\ called\ message\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ TODO\ (38)\:\ Inside\ the\ method,\ change\ the\ value\ of\ the\ value\ variable\ to\ the\ message\ parameter\r\n\ \r\n\ TODO\ (39)\:\ Underneath\ the\ line\ changing\ the\ value\ variable,\ make\ a\ method\ call\ to\ the\ display\ method\r\n
+numComments=4
